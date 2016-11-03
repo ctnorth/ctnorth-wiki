@@ -127,6 +127,7 @@ Be sure to familiarize yourself with our [coding standards](https://github.com/s
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when fixing compiler warnings
+    * :new: `:new:` when adding new dependencies
 
 ## Directory structure
 

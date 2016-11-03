@@ -30,7 +30,7 @@ possible with your report. If you can, please include:
   to see if a similar issue has already been submitted
 
 ## Code Conventions
-Be sure to familiarize yourself with our [coding standards](https://github.com/sanandreasonline/sao/wiki/Coding-Standards) before contributing code fixes.
+Be sure to familiarize yourself with our [coding standards](https://github.com/sanandreasonline/sao/wiki/Coding-Standards) (for C++ code) before contributing code fixes.
 
 ### Git Commit Messages
 

@@ -150,9 +150,37 @@ Be sure to familiarize yourself with our [coding standards](https://github.com/s
 
 Please ensure the following before submitting a pull request for your changes:
 
+- Make sure you use [this template](#template-for-submitting-enhancement-suggestions) to structure the information.
 - The entire solution (<root>\Build\SAO.sln) builds with no errors for all flavors.
 - The changed code follows our [code conventions](https://github.com/sanandreasonline/sao/wiki/Coding-Standards).
 - All of the CI build jobs pass with no failures.
+
+#### Template For Submitting Enhancement Suggestions
+
+    [Short description of suggestion]
+
+    **Steps which explain the enhancement**
+
+    1. [First Step]
+    2. [Second Step]
+    3. [Other Steps...]
+
+    **Current and suggested behavior**
+
+    [Describe current and suggested behavior here]
+
+    **Why would the enhancement be useful to most users**
+
+    [Explain why the enhancement would be useful to most users]
+
+    [List some other text editors or applications where this enhancement exists]
+
+    **Screenshots and GIFs**
+
+    ![Screenshots and GIFs which demonstrate the steps or part of San Andreas Online the enhancement suggestion is related to](url)
+
+    **San Andreas Online Version:** [Enter San Andreas Online version here]
+    **OS and Version:** [Enter OS name and version here]
 
 ### After submitting a request
 

@@ -29,6 +29,7 @@ possible with your report. If you can, please include:
   * The operating system you are using
   * If applicable, what you were doing when the issue arose and what you
   expected to happen
+* **Check the [[FAQs]]** for a list of common questions and problems.
 * Other things that will help resolve your issue:
   * Screenshots, videos and animated GIFs
   * Error output that appears in your terminal, console or as an alert

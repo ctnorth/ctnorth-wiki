@@ -2,7 +2,7 @@
 
 The following is a set of guidelines for contributing to San Andreas Online.
 
-## How To Contribute
+## How Can I Contribute
 
 There are lots of ways you can contribute to the project:
 

@@ -35,6 +35,35 @@ possible with your report. If you can, please include:
   * Perform a [cursory search](https://github.com/sanandreasonline/sao/issues?utf8=✓&q=is%3Aissue+)
   to see if a similar issue has already been submitted
 
+#### How Do I Submit A (Good) Bug Report?
+
+Explain the problem and include additional details to help maintainers reproduce the problem:
+
+* **Use a clear and descriptive title** for the issue to identify the problem.
+* **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you started San Andreas Online, e.g. which button exactly you clicked in the menu, or how you started San Andreas Online otherwise, e.g. starting it from sao:// URL protocol. When listing steps, **don't just say what you did, but explain how you did it**. For example, if you moved the cursor to the end of a GUI element, explain if you used the mouse, or a keyboard shortcut or an San Andreas Online command, and if so which one?
+* **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines) for Lua and AngelScript code.
+* **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
+* **Explain which behavior you expected to see instead and why.**
+* **Include screenshots, [YouTube](https://youtube.com) videos and animated GIFs** which show you following the described steps and clearly demonstrate the problem. You can use [this tool](http://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
+* **If you're reporting that San Andreas Online crashed**, include a crash report with a stack trace from the operating system. Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
+* **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
+
+Provide more context by answering these questions:
+
+* **Can you reproduce the problem in P2P mode?**
+* **Can you reproduce the problem in Server-Client mode?**
+* **Did the problem start happening recently** (e.g. after updating to a new version of San Andreas Online) or was this always a problem?
+* If the problem started happening recently, **can you reproduce the problem in an older version of San Andreas Online?** What's the most recent version in which the problem doesn't happen? You can download older versions of San Andreas Online from [the releases page](https://github.com/sanandreasonline/sao/releases).
+* **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
+* If the problem is related to working with files (e.g. opening and editing files), **does the problem happen for all files and projects or only some?** Does the problem happen only when working with local or remote files (e.g. on network drives), with files of a specific type (e.g. only JavaScript or Python files), with large files or files with very long lines, or with files in a specific encoding? Is there anything else special about the files you are using?
+
+Include details about your configuration and environment:
+
+* **Which version of San Andreas Online are you using?** You can get the exact version by looking at the top-right section of your screen in the main menu.
+* **What's the name and version of the OS you're using**?
+* **Are you running San Andreas Online in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
+* **Are you using Atom with multiple monitors?** If so, can you reproduce the problem when you use a single monitor?
+
 #### Template For Submitting Bug Reports
 
     [Short description of problem here]

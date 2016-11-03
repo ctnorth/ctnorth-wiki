@@ -63,7 +63,7 @@ Include details about your configuration and environment:
 * **Which version of San Andreas Online are you using?** You can get the exact version by looking at the top-right section of your screen in the main menu.
 * **What's the name and version of the OS you're using**?
 * **Are you running San Andreas Online in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
-* **Are you using Atom with multiple monitors?** If so, can you reproduce the problem when you use a single monitor?
+* **Are you using San Andreas Online with multiple monitors?** If so, can you reproduce the problem when you use a single monitor?
 
 #### Template For Submitting Bug Reports
 

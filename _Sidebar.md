@@ -1,5 +1,11 @@
 **Project**
 * [[Home]]
+* [[Roadmap]]
+* [[FAQ]]
+
+**Contributing**
+* [[How to Contribute]]
+* [[Coding Standards]]
 
 **Links**
 * [Website](http://sanandreasonline.com)

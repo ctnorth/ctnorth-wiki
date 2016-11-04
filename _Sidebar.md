@@ -4,7 +4,7 @@
 * [[FAQ]]
 
 **Contributing**
-* [[How to Contribute]]
+* [[Contributing guidelines]]
 * [[Coding Standards]]
 
 **Links**

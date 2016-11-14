@@ -127,6 +127,7 @@ Be sure to familiarize yourself with our [coding standards](https://github.com/s
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when fixing compiler warnings
     * :new: `:new:` when adding new dependencies
+    * :heavy_plus_sign: `:heavy_plus_sign:` for 'addendum' commits
 
 ## Directory structure
 

@@ -174,11 +174,11 @@ Please ensure the following before submitting a pull request for your changes:
 
     [Explain why the enhancement would be useful to most users]
 
-    [List some other text editors or applications where this enhancement exists]
+    [List some other mods or applications where this enhancement exists]
 
-    **Screenshots and GIFs**
+    **Screenshots, YouTube videos and GIFs**
 
-    ![Screenshots and GIFs which demonstrate the steps or part of San Andreas Online the enhancement suggestion is related to](url)
+    ![Screenshots, YouTube videos and GIFs which demonstrate the steps or part of San Andreas Online the enhancement suggestion is related to](url)
 
     **San Andreas Online Version:** [Enter San Andreas Online version here]
     **OS and Version:** [Enter OS name and version here]

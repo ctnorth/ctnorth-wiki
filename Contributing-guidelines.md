@@ -1,6 +1,6 @@
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of guidelines for contributing to San Andreas Online.
+The following is a set of guidelines for contributing to CtNorth.
 
 ## How Can I Contribute
 
@@ -16,16 +16,16 @@ There are lots of ways you can contribute to the project:
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for San Andreas Online. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
+This section guides you through submitting a bug report for CtNorth. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
 Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). If you'd like, you can use [this template](#template-for-submitting-bug-reports) to structure the information.
 
 #### Before Submitting A Bug Report
 
-* You can create an issue [here](https://github.com/sanandreasonline/sao/issues/new),
+* You can create an issue [here](https://github.com/ctnorth/ctnorth/issues/new),
 but before doing that please read the notes below and include as many details as
 possible with your report. If you can, please include:
-  * The version of San Andreas Online you are using
+  * The version of CtNorth you are using
   * The operating system you are using
   * If applicable, what you were doing when the issue arose and what you
   expected to happen
@@ -33,7 +33,7 @@ possible with your report. If you can, please include:
 * Other things that will help resolve your issue:
   * Screenshots, videos and animated GIFs
   * Error output that appears in your terminal, console or as an alert
-  * Perform a [cursory search](https://github.com/sanandreasonline/sao/issues?utf8=✓&q=is%3Aissue+)
+  * Perform a [cursory search](https://github.com/ctnorth/ctnorth/issues?utf8=✓&q=is%3Aissue+)
   to see if a similar issue has already been submitted
 
 #### How Do I Submit A (Good) Bug Report?
@@ -41,28 +41,28 @@ possible with your report. If you can, please include:
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
-* **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you started San Andreas Online, e.g. which button exactly you clicked in the menu, or how you started San Andreas Online otherwise, e.g. starting it from sao:// URL protocol. When listing steps, **don't just say what you did, but explain how you did it**. For example, if you moved the cursor to the end of a GUI element, explain if you used the mouse, or a keyboard shortcut or a console command, and if so which one?
+* **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you started CtNorth, e.g. which button exactly you clicked in the menu, or how you started CtNorth otherwise, e.g. starting it from sao:// URL protocol. When listing steps, **don't just say what you did, but explain how you did it**. For example, if you moved the cursor to the end of a GUI element, explain if you used the mouse, or a keyboard shortcut or a console command, and if so which one?
 * **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines) for Lua and AngelScript code.
 * **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 * **Explain which behavior you expected to see instead and why.**
 * **Include screenshots, [YouTube](https://youtube.com) videos and animated GIFs** which show you following the described steps and clearly demonstrate the problem. You can use [this tool](http://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-* **If you're reporting that San Andreas Online crashed**, include a crash report with a stack trace from the operating system. Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
+* **If you're reporting that CtNorth crashed**, include a crash report with a stack trace from the operating system. Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
 * **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
 
 Provide more context by answering these questions:
 
 * **Can you reproduce the problem in P2P mode?**
 * **Can you reproduce the problem in Server-Client mode?**
-* **Did the problem start happening recently** (e.g. after updating to a new version of San Andreas Online) or was this always a problem?
-* If the problem started happening recently, **can you reproduce the problem in an older version of San Andreas Online?** What's the most recent version in which the problem doesn't happen? You can download older versions of San Andreas Online from [the releases page](https://github.com/sanandreasonline/sao/releases).
+* **Did the problem start happening recently** (e.g. after updating to a new version of CtNorth) or was this always a problem?
+* If the problem started happening recently, **can you reproduce the problem in an older version of CtNorth?** What's the most recent version in which the problem doesn't happen? You can download older versions of CtNorth from [the releases page](https://github.com/ctnorth/ctnorth/releases).
 * **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 Include details about your configuration and environment:
 
-* **Which version of San Andreas Online are you using?** You can get the exact version by looking at the top-right section of your screen in the main menu.
+* **Which version of CtNorth are you using?** You can get the exact version by looking at the top-right section of your screen in the main menu.
 * **What's the name and version of the OS you're using**?
-* **Are you running San Andreas Online in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
-* **Are you using San Andreas Online with multiple monitors?** If so, can you reproduce the problem when you use a single monitor?
+* **Are you running CtNorth in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
+* **Are you using CtNorth with multiple monitors?** If so, can you reproduce the problem when you use a single monitor?
 
 #### Template For Submitting Bug Reports
 
@@ -86,7 +86,7 @@ Include details about your configuration and environment:
 
     ![Screenshots and GIFs which follow reproduction steps to demonstrate the problem](url)
 
-    **San Andreas Online version:** [Enter San Andreas Online version here]
+    **CtNorth version:** [Enter CtNorth version here]
     **OS and version:** [Enter OS name and version here]
 
     **Installed packages:**
@@ -97,12 +97,12 @@ Include details about your configuration and environment:
 
     * Problem can be reproduced in P2P mode: [Yes/No]
     * Problem can be reproduced in Server-Client mode: [Yes/No]
-    * Problem started happening recently, didn't happen in an older version of San Andreas Online: [Yes/No]
+    * Problem started happening recently, didn't happen in an older version of CtNorth: [Yes/No]
     * Problem can be reliably reproduced, doesn't happen randomly: [Yes/No]
     * Problem happens with all files and projects, not only some files or projects: [Yes/No]
 
 ## Code Conventions
-Be sure to familiarize yourself with our [coding standards](https://github.com/sanandreasonline/sao/wiki/Coding-Standards) (for C++ code) before contributing code fixes.
+Be sure to familiarize yourself with our [coding standards](https://github.com/ctnorth/ctnorth/wiki/Coding-Standards) (for C++ code) before contributing code fixes.
 
 ### Git Commit Messages
 
@@ -153,7 +153,7 @@ Please ensure the following before submitting a pull request for your changes:
 
 - Make sure you use [this template](#template-for-submitting-enhancement-suggestions) to structure the information.
 - The entire solution (<root>\Build\SAO.sln) builds with no errors for all flavors.
-- The changed code follows our [code conventions](https://github.com/sanandreasonline/sao/wiki/Coding-Standards).
+- The changed code follows our [code conventions](https://github.com/ctnorth/ctnorth/wiki/Coding-Standards).
 - All of the CI build jobs pass with no failures.
 
 #### Template For Submitting Enhancement Suggestions
@@ -178,9 +178,9 @@ Please ensure the following before submitting a pull request for your changes:
 
     **Screenshots, YouTube videos and GIFs**
 
-    ![Screenshots, YouTube videos and GIFs which demonstrate the steps or part of San Andreas Online the enhancement suggestion is related to](url)
+    ![Screenshots, YouTube videos and GIFs which demonstrate the steps or part of CtNorth the enhancement suggestion is related to](url)
 
-    **San Andreas Online Version:** [Enter San Andreas Online version here]
+    **CtNorth Version:** [Enter CtNorth version here]
     **OS and Version:** [Enter OS name and version here]
 
 ### After submitting a request

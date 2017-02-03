@@ -1,1 +1,0 @@
-See [projects](https://github.com/sanandreasonline/sao/projects).

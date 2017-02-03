@@ -1,1 +1,1 @@
-Welcome to the San Andreas Online wiki!
+Welcome to the CtNorth wiki!

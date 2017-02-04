@@ -35,6 +35,63 @@ void AnotherFunction(int)
 }
 ```
 
+#### Use Windows-style line breaks ('\r\n'), not Unix ('\n')
+
+#### Keep line's lengths to 120 characters or less.
+* ClangFormat's `ColumnLimit` can actually assist you on this.
+
+#### Don't indent content within `namespace` blocks.
+
+##### Right:
+```cpp
+namespace AppMain::Test
+{
+
+class Foo
+{
+
+};
+
+struct Bar
+{
+
+};
+
+namespace AnotherOne
+{
+
+class TType;
+
+}
+
+}
+```
+
+##### Wrong:
+```cpp
+namespace AppMain::Test
+{
+    class Foo
+    {
+
+    };
+
+    struct Bar
+    {
+
+    };
+
+    namespace AnotherOne
+    {
+        class TType;
+    }
+}
+```
+
+
+
+
+
 # C#
 *TODO*
 
